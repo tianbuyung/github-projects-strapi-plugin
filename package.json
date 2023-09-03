@@ -1,9 +1,9 @@
 {
   "name": "@codefusionhub/github-projects-strapi-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is the description of the plugin.",
   "strapi": {
-    "name": "Github Projects",
+    "name": "github-projects",
     "description": "A Strapi plugin that allows to generate projects from the Github repositories.",
     "kind": "plugin",
     "displayName": "Github Projects"
